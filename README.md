@@ -17,12 +17,7 @@ Green Bull is a machine learning-based stock market prediction project that uses
 ## 🛠️ Tech Stack
 
 - **Language:** Python  
-- **Libraries:** yfinance, Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow/Keras, VaderSentiment
-
----
-
-## 📊 Sample Output
-
+- **Libraries:** yfinance, Pandas, NumPy, Matplotlib, Scikit-learn, Stream-lit, TensorFlow/Keras, Requests.
 > 📉 Displays trend comparison of actual vs predicted prices using Matplotlib plots  
 > 💬 Sentiment score from recent stock-related news articles
 
